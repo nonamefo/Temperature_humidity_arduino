@@ -1,4 +1,4 @@
-# Arduino Nano Temperature and Humidity Display
+#  Temperature and Humidity Display using Arduino Nano
 
 This project demonstrates how to display temperature and humidity readings on a 16x2 LCD screen using an Arduino Nano. The project utilizes I2C communication for simplicity.
 
